@@ -6,7 +6,7 @@
         "description": "Welcome to the conference and an overview of what it takes to build a successful career as a music artist today.",
         "featuredSpeaker": "Jordan Hayes",
         "speakerRole": "Recording Artist",
-        "image": "images/modern-music-artist.jpg"
+        "image": "images/person1.webp"
       },
       {
         "startTime": "9:20 AM",
@@ -24,7 +24,7 @@
         "description": "Learn how artists can develop their unique musical style, identity, and creative voice.",
         "featuredSpeaker": "Maya Brooks",
         "speakerRole": "Singer & Songwriter",
-        "image": "images/finding-your-sound.jpg"
+        "image": "images/person2.webp"
       },
       {
         "startTime": "10:50 AM",
@@ -42,7 +42,7 @@
         "description": "Explore songwriting, recording, production, and the process of turning an idea into a finished song.",
         "featuredSpeaker": "Ethan Cole",
         "speakerRole": "Music Producer",
-        "image": "images/recording-studio.jpg"
+        "image": "images/person3.webp"
       },
       {
         "startTime": "12:20 PM",
@@ -60,7 +60,7 @@
         "description": "Learn how visual identity, social media, photography, and storytelling can help artists connect with an audience.",
         "featuredSpeaker": "Avery Morgan",
         "speakerRole": "Music Marketing Specialist",
-        "image": "images/artist-brand.jpg"
+        "image": "images/person4.webp"
       },
       {
         "startTime": "2:40 PM",
@@ -78,7 +78,7 @@
         "description": "Discover strategies for promoting music, using social media, engaging fans, and creating a strong online presence.",
         "featuredSpeaker": "Taylor Reed",
         "speakerRole": "Digital Music Strategist",
-        "image": "images/growing-fanbase.jpg"
+        "image": "images/person5.webp"
       },
       {
         "startTime": "4:10 PM",
@@ -96,7 +96,7 @@
         "description": "Learn about streaming, touring, merchandise, licensing, royalties, and other ways artists can build sustainable careers.",
         "featuredSpeaker": "Chris Bennett",
         "speakerRole": "Music Industry Executive",
-        "image": "images/music-career.jpg"
+        "image": "images/person6.webp"
       },
       {
         "startTime": "5:40 PM",
