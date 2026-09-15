@@ -1,5 +1,5 @@
 //import jsson data from schedule.mjs
-import { sessions } from "/data/schedule.mjs";
+import { sessions } from "../../../data/schedule.mjs";
 //console.log(sessions);
 const destination = document.querySelector('#schedule-here')
 
@@ -20,7 +20,7 @@ const time = document.createElement('td')
 time.innerHTML = `<p class="time">${item.startTime} - ${item.endTime}</p>`
 
 //second collumn
-const topic = document.createElement('tr')
+const topic = document.createElement('td')
 topic.innerHTML = `<p class="title"> ${item.title}</p> <p> ${item.description}</p>`
 
 //third collumn
