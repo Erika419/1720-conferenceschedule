@@ -201,6 +201,27 @@ nav.show{
         }
     }
 
+    /**schedule table layout tag**/
+    .schedule{
+        border-collapse: collapse;
+        margin: 1rem 10px;
+        color: var(--color-mygrey-70);
+        font-size: 0.7rem;
+    
+    }
+
+    .schedule tr{
+        border-bottom: 1px solid var(--color-mygrey-20);
+        &:hover{ background-color: var(--color-mygrey-05);}
+    }
+
+    .schedule th{
+        background-color: var(--color-secondary);
+        color: white;
+        padding: 1rem 0;
+    }
+
+
 /**social media tag**/
     .social{
         display:flex;
