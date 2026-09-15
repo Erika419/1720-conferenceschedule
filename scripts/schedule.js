@@ -1,9 +1,9 @@
 //import jsson data from schedule.mjs
-import { schedule } from ".../data/schedule.mjs";
-//console.log(schedule);
+import { sessions } from ".../data/schedule.mjs";
+//console.log(sessions);
 const destination = document.querySelector('#schedule-here')
 
-schedule.forEach(item=>{
+sessions.forEach(item=>{
 //console.log(item)
 console.log(item.startTime)
 console.log(item.endTime)
