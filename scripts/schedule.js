@@ -1,5 +1,5 @@
 //import jsson data from sessions.mjs
-import { sessions } from "../data/sessions.mjs";
+import { sessions } from "../../data/sessions.mjs";
 //console.log(sessions);
 const destination = document.querySelector('#schedule-here')
 
