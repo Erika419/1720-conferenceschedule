@@ -28,7 +28,7 @@ sessions.forEach(item => {
     if(item.featuredSpeaker === null){
         console.log("no speaker")
     } else{
-        speaker.innerHTML = `<p class = "name"> ${item.featuredSpeaker.name}</p>
+        speaker.innerHTML = `<p class = "name"> ${item.featuredSpeaker}</p>
         <img src="images/${item.image}">
         <p class = "desc"> ${item.title}</p>`
     }
