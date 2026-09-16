@@ -105,7 +105,7 @@
         "description": "Local and emerging artists perform short sets while attendees connect with other musicians and industry professionals.",
         "featuredSpeaker": "Emerging Artist Panel",
         "speakerRole": "Music Industry Panel",
-        "image": "artist-showcase.jpg"
+        "image": "person7.webp"
       },
       {
         "startTime": "6:30 PM",
@@ -123,7 +123,7 @@
         "description": "An inspiring discussion about creativity, persistence, overcoming challenges, and building a lasting career as an artist.",
         "featuredSpeaker": "Maya Brooks",
         "speakerRole": "Award-Winning Recording Artist",
-        "image": "keynote-speaker.jpg"
+        "image": "person8.webp"
       }
     ];
     
