@@ -221,6 +221,42 @@ nav.show{
         padding: 1rem 0;
     }
 
+    .schedule td{
+        padding: 5px;
+        vertical-align: top;
+    }
+
+    .schedule p{
+        margin: 0;
+        padding: 0;
+    }
+
+    .schedule .time{
+        font-weight: 700;
+        font-size: 0.7rem;
+        color: var(--color-mygrey-40);
+    }
+
+    .schedule .title{
+        font-weight: 600;
+        color: var(--color-primary);
+        padding-bottom: 5px;
+    }
+
+    .schedule .name{
+    font-weight: 600;
+    color: var(--color-secondary);
+    text-align: center;    
+    }
+
+    .schedule img{
+        display: block;
+        width: 75px;
+        height: auto;
+        border-radius: 10px;
+        margin: auto;
+        text-align: center;
+    }
 
 /**social media tag**/
     .social{
