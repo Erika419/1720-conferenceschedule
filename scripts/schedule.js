@@ -29,7 +29,7 @@ sessions.forEach(item => {
         console.log("no speaker")
     } else{
         speaker.innerHTML = `<p class = "name"> ${item.featuredSpeaker.name}</p>
-        <img src="../images/${item.image}">
+        <img src="images/${item.image}">
         <p class = "desc"> ${item.title}</p>`
     }
 
