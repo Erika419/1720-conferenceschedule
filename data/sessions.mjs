@@ -6,7 +6,7 @@
         "description": "Welcome to the conference and an overview of what it takes to build a successful career as a music artist today.",
         "featuredSpeaker": "Jordan Hayes",
         "speakerRole": "Recording Artist",
-        "image": "images/person1.webp"
+        "image": "person1.webp"
       },
       {
         "startTime": "9:20 AM",
@@ -15,7 +15,7 @@
         "description": "Grab refreshments and connect with other artists and attendees.",
         "featuredSpeaker": null,
         "speakerRole": null,
-        "image": "images/coffee-break.jpg"
+        "image": "coffee-break.jpg"
       },
       {
         "startTime": "9:30 AM",
@@ -24,7 +24,7 @@
         "description": "Learn how artists can develop their unique musical style, identity, and creative voice.",
         "featuredSpeaker": "Maya Brooks",
         "speakerRole": "Singer & Songwriter",
-        "image": "images/person2.webp"
+        "image": "person2.webp"
       },
       {
         "startTime": "10:50 AM",
@@ -33,7 +33,7 @@
         "description": "Short networking and refreshment break.",
         "featuredSpeaker": null,
         "speakerRole": null,
-        "image": "images/coffee-break.jpg"
+        "image": "coffee-break.jpg"
       },
       {
         "startTime": "11:00 AM",
@@ -42,7 +42,7 @@
         "description": "Explore songwriting, recording, production, and the process of turning an idea into a finished song.",
         "featuredSpeaker": "Ethan Cole",
         "speakerRole": "Music Producer",
-        "image": "images/person3.webp"
+        "image": "person3.webp"
       },
       {
         "startTime": "12:20 PM",
@@ -51,7 +51,7 @@
         "description": "Enjoy lunch while networking with fellow artists, producers, and music professionals.",
         "featuredSpeaker": null,
         "speakerRole": null,
-        "image": "images/lunch.jpg"
+        "image": "lunch.jpg"
       },
       {
         "startTime": "1:20 PM",
@@ -60,7 +60,7 @@
         "description": "Learn how visual identity, social media, photography, and storytelling can help artists connect with an audience.",
         "featuredSpeaker": "Avery Morgan",
         "speakerRole": "Music Marketing Specialist",
-        "image": "images/person4.webp"
+        "image": "person4.webp"
       },
       {
         "startTime": "2:40 PM",
@@ -69,7 +69,7 @@
         "description": "Refreshments and networking.",
         "featuredSpeaker": null,
         "speakerRole": null,
-        "image": "images/coffee-break.jpg"
+        "image": "coffee-break.jpg"
       },
       {
         "startTime": "2:50 PM",
@@ -78,7 +78,7 @@
         "description": "Discover strategies for promoting music, using social media, engaging fans, and creating a strong online presence.",
         "featuredSpeaker": "Taylor Reed",
         "speakerRole": "Digital Music Strategist",
-        "image": "images/person5.webp"
+        "image": "person5.webp"
       },
       {
         "startTime": "4:10 PM",
@@ -87,7 +87,7 @@
         "description": "Short break before the final afternoon session.",
         "featuredSpeaker": null,
         "speakerRole": null,
-        "image": "images/coffee-break.jpg"
+        "image": "coffee-break.jpg"
       },
       {
         "startTime": "4:20 PM",
@@ -96,7 +96,7 @@
         "description": "Learn about streaming, touring, merchandise, licensing, royalties, and other ways artists can build sustainable careers.",
         "featuredSpeaker": "Chris Bennett",
         "speakerRole": "Music Industry Executive",
-        "image": "images/person6.webp"
+        "image": "person6.webp"
       },
       {
         "startTime": "5:40 PM",
@@ -105,7 +105,7 @@
         "description": "Local and emerging artists perform short sets while attendees connect with other musicians and industry professionals.",
         "featuredSpeaker": "Emerging Artist Panel",
         "speakerRole": "Music Industry Panel",
-        "image": "images/artist-showcase.jpg"
+        "image": "artist-showcase.jpg"
       },
       {
         "startTime": "6:30 PM",
@@ -114,7 +114,7 @@
         "description": "Dinner and informal networking with artists, producers, managers, and other music professionals.",
         "featuredSpeaker": null,
         "speakerRole": null,
-        "image": "images/conference-dinner.jpg"
+        "image": "conference-dinner.jpg"
       },
       {
         "startTime": "7:30 PM",
@@ -123,7 +123,7 @@
         "description": "An inspiring discussion about creativity, persistence, overcoming challenges, and building a lasting career as an artist.",
         "featuredSpeaker": "Maya Brooks",
         "speakerRole": "Award-Winning Recording Artist",
-        "image": "images/keynote-speaker.jpg"
+        "image": "keynote-speaker.jpg"
       }
     ];
     
