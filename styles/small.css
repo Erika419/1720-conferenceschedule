@@ -87,6 +87,11 @@ nav a:active{
     background-color: var(--color-mygrey-40);
 }
 
+nav a:visited{
+    background-color: var(--color-mygrey-40);
+    color: green;
+}
+
 /**Hamburger Stuff tag**/
 .hamburger{
     background: none;
