@@ -83,6 +83,10 @@ nav.show{
     display: block;
 }
 
+.active{
+    background-color: var(--color-mygrey-40);
+}
+
 /**Hamburger Stuff tag**/
 .hamburger{
     background: none;
