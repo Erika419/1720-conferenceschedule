@@ -37,7 +37,8 @@
 
         nav a:visited{
         background-color: var(--color-mygrey-40);
-        color: green;
+        opacity: 0.5;
+        color: #8A2BE2;
     }
 
       /**Schedule Layout tag**/
